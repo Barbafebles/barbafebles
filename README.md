@@ -12,4 +12,4 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=barbafebles&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbafebles&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbafebles&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
