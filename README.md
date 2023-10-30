@@ -8,12 +8,6 @@
 
 ## ▪️[42 Madrid](https://www.42madrid.com) 👨🏻‍💻📘
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhxd04z4003008ky3vc94s3d/stats?cursusId=21&coalitionId=66" alt="bfebles-'s 42 stats" /></a>
-
-## ▪️ See my 42course progress ↙️ 
-
-◦ [42 progress](https://github.com/Barbafebles/42-course)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barbafebles) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/barbafebles) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/barbafebles) 
 [![](https://visitcount.itsvg.in/api?id=barbafebles&icon=0&color=1)](https://visitcount.itsvg.in)
