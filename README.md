@@ -2,7 +2,7 @@
 
 <h3 align="center"> Passionate about technology and art</h3>
 
-- 📘 Student [42 Madrid](https://www.42madrid.com)
+- 📘 ex Student [42 Madrid](https://www.42madrid.com)
 
 - 📫 How to reach me **Email: barbafebles@icloud.com
 
