@@ -4,7 +4,7 @@
 
 - 📘 ex Student [42 Madrid](https://www.42madrid.com)
 
-- 📫 How to reach me **Email: barbafebles@icloud.com
+- 📫 How to reach me Email: barbafebles@icloud.com
 
 ## ▪️[42 Madrid](https://www.42madrid.com) 👨🏻‍💻📘
 
