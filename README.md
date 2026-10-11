@@ -26,4 +26,4 @@ También encontrarás ejercicios de fundamentos de C como **libft**, **get_next_
 ## Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/barbara-febles-gomez-ab330431a)
-- Correo: **barbafebles@icloud.com**
+- Correo: **barbafebles@gmail.com**
