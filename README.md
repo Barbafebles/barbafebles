@@ -17,7 +17,7 @@ En [**42-course**](https://github.com/Barbafebles/42-course) comparto trabajos f
 
 - 🎮 [**so_long**](https://github.com/Barbafebles/42-course/tree/main/so_long): juego 2D en C con mapas y gráficos.
 - 🔀 [**push_swap**](https://github.com/Barbafebles/42-course/tree/main/push_swap_final): ordenación con pilas y operaciones limitadas.
-- 🔗 [**pipex**](https://github.com/Barbafebles/42-course/tree/main/pipex): procesos, redirecciones y tuberías en Unix.
+- 💬 [**minitalk**](https://github.com/Barbafebles/42-course/tree/main/minitalk%20final): comunicación entre procesos mediante señales Unix.
 
 También encontrarás ejercicios de fundamentos de C como **libft**, **get_next_line** y **ft_printf**.
 
